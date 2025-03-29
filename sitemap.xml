@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://drjoyshome.github.io/publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://drjoyshome.github.io/publii/</loc>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/contact/</loc>
+<lastmod>2025-03-28T19:21:58+05:30</lastmod>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/dr-joy-shome/clinical-experience/</loc>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/dr-joy-shome/conferences/</loc>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/dr-joy-shome/education/</loc>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/dr-joy-shome/publications/</loc>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/interviews/</loc>
+<lastmod>2025-03-28T14:49:29+05:30</lastmod>
+<image:image>
+<image:loc>https://drjoyshome.github.io/publii/media/posts/6/Screenshot-2025-03-28-at-2.47.55-PM.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://drjoyshome.github.io/publii/videos/</loc>
+<lastmod>2025-03-28T10:22:24+05:30</lastmod>
+</url>
+</urlset>
