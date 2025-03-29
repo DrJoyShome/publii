@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "TAVIDoctor.com",
     "description": "",
-    "home_page_url": "https://drjoyshome.github.io/publii",
-    "feed_url": "https://drjoyshome.github.io/publii/feed.json",
+    "home_page_url": "https://tavidoctor.com",
+    "feed_url": "https://tavidoctor.com/feed.json",
     "user_comment": "",
-    "icon": "https://drjoyshome.github.io/publii/media/website/original_cropped.png",
+    "icon": "https://tavidoctor.com/media/website/original_cropped.png",
     "author": {
         "name": "Dr. Joy Shome"
     },
