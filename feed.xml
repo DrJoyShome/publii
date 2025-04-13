@@ -3,7 +3,7 @@
     <title>TAVIDoctor.com</title>
     <link href="https://tavidoctor.com/feed.xml" rel="self" />
     <link href="https://tavidoctor.com" />
-    <updated>2025-04-10T10:30:25+05:30</updated>
+    <updated>2025-04-13T16:14:22+05:30</updated>
     <author>
         <name>Dr. Joy Shome</name>
     </author>
@@ -14,9 +14,12 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/back-from-the-brink/"/>
-        <id>https://tavidoctor.com/back-from-the-brink/</id>
+        <link href="https://tavidoctor.com/blog/back-from-the-brink/"/>
+        <id>https://tavidoctor.com/blog/back-from-the-brink/</id>
         <media:content url="https://tavidoctor.com/media/posts/25/fotor-ai-20250410101653.jpg" medium="image" />
+            <category term="TAVI / TAVR"/>
+            <category term="Complex Coronary Angioplasty"/>
+            <category term="BM Birla Heart Research Centre"/>
 
         <updated>2025-04-10T09:58:19+05:30</updated>
             <summary>
@@ -55,8 +58,9 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/lifestyle-tips-to-prevent-heart-attacks-and-strokes/"/>
-        <id>https://tavidoctor.com/lifestyle-tips-to-prevent-heart-attacks-and-strokes/</id>
+        <link href="https://tavidoctor.com/blog/lifestyle-tips-to-prevent-heart-attacks-and-strokes/"/>
+        <id>https://tavidoctor.com/blog/lifestyle-tips-to-prevent-heart-attacks-and-strokes/</id>
+            <category term="Lifestyle"/>
 
         <updated>2025-03-05T19:36:00+05:30</updated>
             <summary>
@@ -90,8 +94,9 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/maintaining-cardiovascular-health-in-winter/"/>
-        <id>https://tavidoctor.com/maintaining-cardiovascular-health-in-winter/</id>
+        <link href="https://tavidoctor.com/blog/maintaining-cardiovascular-health-in-winter/"/>
+        <id>https://tavidoctor.com/blog/maintaining-cardiovascular-health-in-winter/</id>
+            <category term="Lifestyle"/>
 
         <updated>2025-01-31T17:00:00+05:30</updated>
             <summary>
@@ -112,7 +117,7 @@
 <h2>Avoid stress</h2>
 <p>Stress can be another major factor in heart problems during the winter. People should limit stress and set aside time to relax and unwind through simple daily activities like meditating, listening to music or taking a hot shower. It is also noteworthy that the winter is the time for people to stay safe from common illnesses like fever or common flu. Vaccinations like the flu and pneumococcal vaccines can help prevent winter-related infections, which can indirectly strain the heart.</p>
 <h2>Conclusion</h2>
-<p>Keeping the heart safeguarded from the cold can make winter a beautiful time of the year for every individual. Not only individuals with pre-existing heart conditions but those prioritizing heart health should also have an understanding on the impact of cold weather on the heart health. By taking certain proactive measures, individuals can significantly reduce the risk of winter-related heart complications and maintain optimal cardiovascular health.</p>
+<p>Keeping the heart safeguarded from the cold can make winter a beautiful time of the year for every individual. Not only individuals with pre-existing heart conditions but those prioritising heart health should also have an understanding on the impact of cold weather on the heart health. By taking certain proactive measures, individuals can significantly reduce the risk of winter-related heart complications and maintain optimal cardiovascular health.</p>
             ]]>
         </content>
     </entry>
@@ -121,9 +126,11 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/meril-octacor-tavi-implants/"/>
-        <id>https://tavidoctor.com/meril-octacor-tavi-implants/</id>
+        <link href="https://tavidoctor.com/blog/meril-octacor-tavi-implants/"/>
+        <id>https://tavidoctor.com/blog/meril-octacor-tavi-implants/</id>
         <media:content url="https://tavidoctor.com/media/posts/20/1718152701305.jpeg" medium="image" />
+            <category term="TAVI / TAVR"/>
+            <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-06-02T00:30:00+05:30</updated>
             <summary>
@@ -149,9 +156,11 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/navitor-vision-self-expandable-intra-annular-valve/"/>
-        <id>https://tavidoctor.com/navitor-vision-self-expandable-intra-annular-valve/</id>
+        <link href="https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/"/>
+        <id>https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/</id>
         <media:content url="https://tavidoctor.com/media/posts/21/1718152698633.jpeg" medium="image" />
+            <category term="TAVI / TAVR"/>
+            <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-22T06:00:00+05:30</updated>
             <summary>
@@ -178,10 +187,11 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/no1-tavi-centre-in-2023/"/>
-        <id>https://tavidoctor.com/no1-tavi-centre-in-2023/</id>
+        <link href="https://tavidoctor.com/blog/no1-tavi-centre-in-2023/"/>
+        <id>https://tavidoctor.com/blog/no1-tavi-centre-in-2023/</id>
         <media:content url="https://tavidoctor.com/media/posts/14/Tavidoctor-colleagues-2-of-12.jpeg" medium="image" />
             <category term="TAVI / TAVR"/>
+            <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-14T23:29:00+05:30</updated>
             <summary>
@@ -211,10 +221,11 @@
         <author>
             <name>Dr. Joy Shome</name>
         </author>
-        <link href="https://tavidoctor.com/first-sapien-3-ultra-resilia-thv-at-morriston/"/>
-        <id>https://tavidoctor.com/first-sapien-3-ultra-resilia-thv-at-morriston/</id>
+        <link href="https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/"/>
+        <id>https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/</id>
         <media:content url="https://tavidoctor.com/media/posts/12/1715195183160.jpeg" medium="image" />
             <category term="TAVI / TAVR"/>
+            <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-08T20:31:00+05:30</updated>
             <summary>
