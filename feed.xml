@@ -3,7 +3,7 @@
     <title>TAVIDoctor.com</title>
     <link href="https://tavidoctor.com/feed.xml" rel="self" />
     <link href="https://tavidoctor.com" />
-    <updated>2025-04-15T01:12:59+05:30</updated>
+    <updated>2025-04-15T02:48:18+05:30</updated>
     <author>
         <name>Dr. Joy Shome</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://tavidoctor.com/blog/back-from-the-brink/"/>
         <id>https://tavidoctor.com/blog/back-from-the-brink/</id>
         <media:content url="https://tavidoctor.com/media/posts/25/fotor-ai-20250410101653.jpg" medium="image" />
-            <category term="TAVI"/>
+            <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Complex Coronary Angioplasty"/>
             <category term="BM Birla Heart Research Centre"/>
 
@@ -90,6 +90,35 @@
         </content>
     </entry>
     <entry>
+        <title>BM Birla CTO Conclave</title>
+        <author>
+            <name>Dr. Joy Shome</name>
+        </author>
+        <link href="https://tavidoctor.com/blog/bm-birla-cto-conclave/"/>
+        <id>https://tavidoctor.com/blog/bm-birla-cto-conclave/</id>
+            <category term="Complex Coronary Angioplasty"/>
+            <category term="Chronic Total Occlusion (CTO) Intervention"/>
+            <category term="BM Birla Heart Research Centre"/>
+
+        <updated>2025-02-19T11:48:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Groundbreaking Chronic Total Occlusion Conclave BM Birla Heart Hospital recently hosted the Chronic Total Occlusion (CTO) Conclave, bringing together global&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Groundbreaking Chronic Total Occlusion Conclave</h1>
+<p>BM Birla Heart Hospital recently hosted the Chronic Total Occlusion (CTO) Conclave, bringing together global experts to discuss innovative treatment techniques.</p>
+<p>Dr. Kenji Kawajiri, Chief of the Heart Centre at Marsubara Tokuausukai Hospital, Japan, shared valuable insights on advanced CTO management.</p>
+<figure class="post__image"><img loading="lazy"  src="https://tavidoctor.com/media/posts/26//1739965722525.jpeg" alt="Dr Kenji Kawajiri, Vice Director &amp; Cardiology Head @ Marsubara Tokuausukai Hospital, Japan" width="1280" height="853"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://tavidoctor.com/media/posts/26//1739965722854.jpeg" alt="Dr Joy Shome - Head of TAVI @ BM Birla Heart Research Centre" width="800" height="533"></figure>
+<p>Dr. Joy Shome presented a challenging CTO case, sparking meaningful discussions.</p>
+<p>The conclave was a key step in the endeavour to advance CTO care, emphasise collaboration and cutting-edge techniques for better patient outcomes.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Maintaining Cardiovascular Health in Winter</title>
         <author>
             <name>Dr. Joy Shome</name>
@@ -129,7 +158,7 @@
         <link href="https://tavidoctor.com/blog/meril-octacor-tavi-implants/"/>
         <id>https://tavidoctor.com/blog/meril-octacor-tavi-implants/</id>
         <media:content url="https://tavidoctor.com/media/posts/20/1718152701305.jpeg" medium="image" />
-            <category term="TAVI"/>
+            <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-06-02T00:30:00+05:30</updated>
@@ -159,7 +188,7 @@
         <link href="https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/"/>
         <id>https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/</id>
         <media:content url="https://tavidoctor.com/media/posts/21/1718152698633.jpeg" medium="image" />
-            <category term="TAVI"/>
+            <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-22T06:00:00+05:30</updated>
@@ -190,7 +219,7 @@
         <link href="https://tavidoctor.com/blog/no1-tavi-centre-in-2023/"/>
         <id>https://tavidoctor.com/blog/no1-tavi-centre-in-2023/</id>
         <media:content url="https://tavidoctor.com/media/posts/14/Tavidoctor-colleagues-2-of-12.jpeg" medium="image" />
-            <category term="TAVI"/>
+            <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-14T23:29:00+05:30</updated>
@@ -224,7 +253,7 @@
         <link href="https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/"/>
         <id>https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/</id>
         <media:content url="https://tavidoctor.com/media/posts/12/1715195183160.jpeg" medium="image" />
-            <category term="TAVI"/>
+            <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-08T20:31:00+05:30</updated>
