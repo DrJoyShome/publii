@@ -3,7 +3,7 @@
     <title>TAVIDoctor.com</title>
     <link href="https://tavidoctor.com/feed.xml" rel="self" />
     <link href="https://tavidoctor.com" />
-    <updated>2025-04-15T02:48:18+05:30</updated>
+    <updated>2025-04-15T03:00:08+05:30</updated>
     <author>
         <name>Dr. Joy Shome</name>
     </author>
@@ -96,6 +96,7 @@
         </author>
         <link href="https://tavidoctor.com/blog/bm-birla-cto-conclave/"/>
         <id>https://tavidoctor.com/blog/bm-birla-cto-conclave/</id>
+        <media:content url="https://tavidoctor.com/media/posts/26/1739965722854-2.jpeg" medium="image" />
             <category term="Complex Coronary Angioplasty"/>
             <category term="Chronic Total Occlusion (CTO) Intervention"/>
             <category term="BM Birla Heart Research Centre"/>
@@ -103,17 +104,18 @@
         <updated>2025-02-19T11:48:00+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tavidoctor.com/media/posts/26/1739965722854-2.jpeg" alt="Dr Joy Shome speaks ar BM Birla CTO Conclave" />
                     Groundbreaking Chronic Total Occlusion Conclave BM Birla Heart Hospital recently hosted the Chronic Total Occlusion (CTO) Conclave, bringing together global&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tavidoctor.com/media/posts/26/1739965722854-2.jpeg" class="type:primaryImage" alt="Dr Joy Shome speaks ar BM Birla CTO Conclave" /></p>
                 <h1>Groundbreaking Chronic Total Occlusion Conclave</h1>
 <p>BM Birla Heart Hospital recently hosted the Chronic Total Occlusion (CTO) Conclave, bringing together global experts to discuss innovative treatment techniques.</p>
-<p>Dr. Kenji Kawajiri, Chief of the Heart Centre at Marsubara Tokuausukai Hospital, Japan, shared valuable insights on advanced CTO management.</p>
+<p class="dropcap">Doctor Kenji Kawajiri, Chief of the Heart Centre at Marsubara Tokuausukai Hospital, Japan, shared valuable insights on advanced CTO management.</p>
 <figure class="post__image"><img loading="lazy"  src="https://tavidoctor.com/media/posts/26//1739965722525.jpeg" alt="Dr Kenji Kawajiri, Vice Director &amp; Cardiology Head @ Marsubara Tokuausukai Hospital, Japan" width="1280" height="853"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://tavidoctor.com/media/posts/26//1739965722854.jpeg" alt="Dr Joy Shome - Head of TAVI @ BM Birla Heart Research Centre" width="800" height="533"></figure>
-<p>Dr. Joy Shome presented a challenging CTO case, sparking meaningful discussions.</p>
+<p class="dropcap">Doctor Joy Shome presented a challenging CTO case, sparking meaningful discussions.</p>
 <p>The conclave was a key step in the endeavour to advance CTO care, emphasise collaboration and cutting-edge techniques for better patient outcomes.</p>
             ]]>
         </content>
