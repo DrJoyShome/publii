@@ -3,7 +3,7 @@
     <title>TAVIDoctor.com</title>
     <link href="https://tavidoctor.com/feed.xml" rel="self" />
     <link href="https://tavidoctor.com" />
-    <updated>2025-04-13T16:14:22+05:30</updated>
+    <updated>2025-04-15T01:12:59+05:30</updated>
     <author>
         <name>Dr. Joy Shome</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://tavidoctor.com/blog/back-from-the-brink/"/>
         <id>https://tavidoctor.com/blog/back-from-the-brink/</id>
         <media:content url="https://tavidoctor.com/media/posts/25/fotor-ai-20250410101653.jpg" medium="image" />
-            <category term="TAVI / TAVR"/>
+            <category term="TAVI"/>
             <category term="Complex Coronary Angioplasty"/>
             <category term="BM Birla Heart Research Centre"/>
 
@@ -45,7 +45,7 @@
 <h3>Procedures</h3>
 <p class="dropcap">First, the team performed a balloon valvuloplasty on an urgent basis, temporarily opening the aortic valve with a balloon to stabilize her condition.</p>
 <p>Next, they carried out rotational atherectomy to her left main coronary artery. This is a technically challenging procedure involving drilling through calcium deposits, followed by stenting to restore blood flow through her main heart artery.</p>
-<p>Finally, once she had regained enough strength, the team successfully replaced her diseased and severely narrowed aortic valve by performing the TAVI procedure through a small hole in the groin. All of these procedures were done with local anesthesia with her being awake throughout.</p>
+<p>Finally, once she had regained enough strength, the team successfully replaced her diseased and severely narrowed aortic valve by performing the Transcatheter Aortic Valve Implantation (TAVI) procedure through a small hole in the groin. All of these procedures were done with local anesthesia with her being awake throughout.</p>
 <h3>Outcome</h3>
 <p class="dropcap">Given her feisty nature, she was up and about on the hospital ward just hours after the procedure and home within 36 hours! Within days, she was back to her smiling, mobile, and hopeful ways again. Her mental toughness and determination shone through it all.</p>
 <p>“She had once dreamed of becoming a doctor herself but couldn't because of life circumstances,” said Dr. Shome. “Her eyes lit up when she talked about her granddaughter working hard to achieve that dream. For us, it may have been one more TAVI procedure — but for her and her family, it was their whole world restored.”</p>
@@ -60,7 +60,7 @@
         </author>
         <link href="https://tavidoctor.com/blog/lifestyle-tips-to-prevent-heart-attacks-and-strokes/"/>
         <id>https://tavidoctor.com/blog/lifestyle-tips-to-prevent-heart-attacks-and-strokes/</id>
-            <category term="Lifestyle"/>
+            <category term="Cardiovascular Health"/>
 
         <updated>2025-03-05T19:36:00+05:30</updated>
             <summary>
@@ -96,7 +96,7 @@
         </author>
         <link href="https://tavidoctor.com/blog/maintaining-cardiovascular-health-in-winter/"/>
         <id>https://tavidoctor.com/blog/maintaining-cardiovascular-health-in-winter/</id>
-            <category term="Lifestyle"/>
+            <category term="Cardiovascular Health"/>
 
         <updated>2025-01-31T17:00:00+05:30</updated>
             <summary>
@@ -129,7 +129,7 @@
         <link href="https://tavidoctor.com/blog/meril-octacor-tavi-implants/"/>
         <id>https://tavidoctor.com/blog/meril-octacor-tavi-implants/</id>
         <media:content url="https://tavidoctor.com/media/posts/20/1718152701305.jpeg" medium="image" />
-            <category term="TAVI / TAVR"/>
+            <category term="TAVI"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-06-02T00:30:00+05:30</updated>
@@ -159,7 +159,7 @@
         <link href="https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/"/>
         <id>https://tavidoctor.com/blog/navitor-vision-self-expandable-intra-annular-valve/</id>
         <media:content url="https://tavidoctor.com/media/posts/21/1718152698633.jpeg" medium="image" />
-            <category term="TAVI / TAVR"/>
+            <category term="TAVI"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-22T06:00:00+05:30</updated>
@@ -190,7 +190,7 @@
         <link href="https://tavidoctor.com/blog/no1-tavi-centre-in-2023/"/>
         <id>https://tavidoctor.com/blog/no1-tavi-centre-in-2023/</id>
         <media:content url="https://tavidoctor.com/media/posts/14/Tavidoctor-colleagues-2-of-12.jpeg" medium="image" />
-            <category term="TAVI / TAVR"/>
+            <category term="TAVI"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-14T23:29:00+05:30</updated>
@@ -224,7 +224,7 @@
         <link href="https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/"/>
         <id>https://tavidoctor.com/blog/first-sapien-3-ultra-resilia-thv-at-morriston/</id>
         <media:content url="https://tavidoctor.com/media/posts/12/1715195183160.jpeg" medium="image" />
-            <category term="TAVI / TAVR"/>
+            <category term="TAVI"/>
             <category term="Cardiac Centre Morriston Hospital"/>
 
         <updated>2024-05-08T20:31:00+05:30</updated>
