@@ -19,7 +19,7 @@ function years_experience(decrement=0) {
   return (yrs - decrement).toString();
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('load', function() {
   // Hide call floating button in /contact page
   // Assumes div with id="Contact" is present
   if (document.getElementById("Contact")) {
