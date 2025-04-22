@@ -3,7 +3,7 @@
     <title>TAVI Doctor.com</title>
     <link href="https://tavidoctor.com/feed.xml" rel="self" />
     <link href="https://tavidoctor.com" />
-    <updated>2025-04-18T07:21:53+05:30</updated>
+    <updated>2025-04-20T09:41:33+05:30</updated>
     <author>
         <name>Dr. Joy Shome</name>
     </author>
@@ -19,6 +19,7 @@
         <media:content url="https://tavidoctor.com/media/posts/25/fotor-ai-20250410101653.jpg" medium="image" />
             <category term="Transcatheter Aortic Valve Implantation (TAVI)"/>
             <category term="Complex Coronary Angioplasty"/>
+            <category term="Chronic Total Occlusion (CTO) Intervention"/>
             <category term="BM Birla Heart Research Centre"/>
 
         <updated>2025-04-10T09:58:19+05:30</updated>
