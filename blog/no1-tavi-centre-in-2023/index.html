@@ -23,7 +23,8 @@ window.addEventListener('load', function() {
   // Hide call floating button in /contact page
   // Assumes div with id="Contact" is present
   if (document.URL.match("^https\:\/\/tavidoctor\.com\/contact\/")) {
-    // fixedButton: See custom css, custom html-bodydocument.getElementById("fixedConsultButton").style.display = 'none';
+    // fixedButton: See custom css, custom html-body
+		document.getElementById("fixedConsultButton").style.display = 'none';
   }
   
   // Populate correct yrs of exp
